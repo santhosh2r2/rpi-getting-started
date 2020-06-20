@@ -4,7 +4,7 @@
 
 They are set of projects that comes along with the Freenove starter kit.
 
-They offer codes in
+They offer tutorials for following programming languages
 
 - C
 - Python
