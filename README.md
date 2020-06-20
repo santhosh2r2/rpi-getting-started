@@ -2,10 +2,20 @@
 
 Here a collection of Information for future reference.
 
+## Commit to multiple repo
+
+As this repo has multiple git remotes, I find it easier to using the below command to push the commits instantly to the multiple repos.
+
+```bash
+npm run push "commit message"
+```
+
+> _**NodeJs** must be installed._
+
 ## Contents
 
-I - Instructions
-P - Projects
+- I - Instructions
+- P - Projects
 
 | Type | Id  |    Date    | Link                                                                                  |
 | :--: | :-: | :--------: | ------------------------------------------------------------------------------------- |
