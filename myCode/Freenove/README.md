@@ -33,4 +33,4 @@ The code and circuit are open source. You can obtain the details and the latest 
 
 | ID  |    Date    | Project                                   |
 | :-: | :--------: | ----------------------------------------- |
-|  1  | .06.2020 | [Blinking LED](01_Blinking_LED\README.md) |
+|  1  | .06.2020 | [Blinking LED](./01_Blinking_LED/README.md) |
