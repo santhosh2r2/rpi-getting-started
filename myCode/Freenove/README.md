@@ -1,5 +1,7 @@
 # Freenove Projects
 
+> **_WARNING:_** Basic knowledge and working of different electronic components such as LEDs, Resistors is expected to proceed with these projects. I will try to explain the components and their working in this repo in the [Components](./00_Components/README.md) section. If you require assistance, just drop a issue.
+
 They are set of projects that comes along with the Freenove starter kit.
 
 They offer codes in
