@@ -29,8 +29,12 @@ The services include:
 
 The code and circuit are open source. You can obtain the details and the latest information through visiting the following web site: http://www.freenove.com
 
-## Overview of the projects done
+## Dataflow
 
-| ID  |    Date    | Project                                   |
-| :-: | :--------: | ----------------------------------------- |
+![](./General_Workflow.jpg)
+
+## Overview of the projects performed
+
+| ID  |   Date   | Project                                     |
+| :-: | :------: | ------------------------------------------- |
 |  1  | .06.2020 | [Blinking LED](./01_Blinking_LED/README.md) |
