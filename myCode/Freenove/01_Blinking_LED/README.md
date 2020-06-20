@@ -4,12 +4,12 @@
 
 ## Componets required
 
-1. 1 x RPi 4B
-2. 1 x GPIO Extension Board & Wire
-3. 1 x Breadboard
-4. 1 x LED
-5. 1 x Resistor 220Ω
-6. 2 x Jumper
+* 1 x RPi 4B
+* 1 x GPIO Extension Board & Wire
+* 1 x Breadboard
+* 1 x LED
+* 1 x Resistor 220Ω
+* 2 x Jumper
 
 ## Program code
 
