@@ -18,9 +18,9 @@ In this repo, we will look into Python coding. The original tutorials can be fou
 
 ### Components
 
-<img src="./img/components_01.jpg" width=200>
-<img src="./img/components_02.jpg" width=200>
-<img src="./img/components_03.jpg" width=200>
+<img src="./img/components_01.jpg" width=350>
+<img src="./img/components_02.jpg" width=350>
+<img src="./img/components_03.jpg" width=350>
 
 ## About Freenove
 
