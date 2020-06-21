@@ -53,12 +53,12 @@ RPi can also be powered with Powerbank.
 
 > **Recommended Output for Powerbank**
 >
-> `DC out 5V` <br> 
+> `DC out 5V` <br>
 > `I 2.5A`
 
 ### Circuit diagram
 
-![](./img/01_circuit_diagram.png)
+<img src="./img/01_circuit_diagram.png" height=200></img>
 
 ### Practical
 
