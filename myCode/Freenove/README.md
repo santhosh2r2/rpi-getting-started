@@ -16,6 +16,12 @@ In this repo, we will look into Python coding. The original tutorials can be fou
 
 > `Link to the kit` https://www.amazon.de/gp/product/B06W54L7B5/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
 
+### Components
+
+<img src="./img/components_01.jpg" width=200>
+<img src="./img/components_02.jpg" width=200>
+<img src="./img/components_03.jpg" width=200>
+
 ## About Freenove
 
 Freenove is an open-source electronics platform.
@@ -37,6 +43,6 @@ The code and circuit are open source. You can obtain the details and the latest 
 
 ## Overview of the projects performed
 
-| ID  |   Date   | Project                                     |
-| :-: | :------: | ------------------------------------------- |
+| ID  |    Date    | Project                                     |
+| :-: | :--------: | ------------------------------------------- |
 |  1  | 21.06.2020 | [Blinking LED](./01_Blinking_LED/README.md) |
