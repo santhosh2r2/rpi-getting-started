@@ -43,7 +43,7 @@ if __name__ = "__main__":
     try:
         loop()
     except KeyboardInterrupt:
-        destro()
+        destroy()
 
 ```
 
@@ -53,12 +53,12 @@ RPi can also be powered with Powerbank.
 
 > **Recommended Output for Powerbank**
 >
-> `DC out 5V` <br>
+> `DC out 5V` <br> 
 > `I 2.5A`
 
 ### Circuit diagram
 
-<img src="./img/01_circuit_diagram.png" height=250></img>
+<img src="./img/01_circuit_diagram.png" alt="circuit_diagram" height=250></img>
 
 ### Practical
 
