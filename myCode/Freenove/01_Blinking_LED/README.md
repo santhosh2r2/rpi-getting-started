@@ -58,7 +58,7 @@ RPi can also be powered with Powerbank.
 
 ### Circuit diagram
 
-<img src="./img/01_circuit_diagram.png" height=200></img>
+<img src="./img/01_circuit_diagram.png" height=250></img>
 
 ### Practical
 
