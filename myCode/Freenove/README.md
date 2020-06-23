@@ -16,7 +16,6 @@ The services include:
 
 The code and circuit are open source. You can obtain the details and the latest information through visiting the following web site: http://www.freenove.com</details>
 
-
 They are set of projects that comes along with the Freenove starter kit.
 
 They offer tutorials for following programming languages
@@ -45,6 +44,8 @@ In this repo, we will look into Python coding. The original tutorials can be fou
 
 ## Overview of the projects performed
 
-| ID  |    Date    | Project                                     |
-| :-: | :--------: | ------------------------------------------- |
-|  1  | 21.06.2020 | [Blinking LED](./01_Blinking_LED/README.md) |
+| ID  |    Date    | Project                                         |
+| :-: | :--------: | ----------------------------------------------- |
+|  1  | 21.06.2020 | [Blinking LED](./01_Blinking_LED/README.md)     |
+|  2  | 23.06.2020 | [Button and LED](./02_Button_and_LED/README.md) |
+|  3  | 24.06.2020 | [LED Graph](./03_LED_Graph/README.md)           |
