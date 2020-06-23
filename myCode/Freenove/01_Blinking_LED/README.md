@@ -34,7 +34,7 @@ def loop():
         print("led OFF")
         time.sleep(1)
 
-def destory():
+def destroy():
     GPIO.cleanup()
 
 if __name__ = "__main__":
