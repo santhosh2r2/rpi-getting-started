@@ -65,4 +65,4 @@ if __name__ == '__main__':
 | -------------------------- | ------------------------------------ |
 | Components                 | ![](./img/02_components.jpg)         |
 | Complete ciruct connection | ![](./img/03_circuit_connection.jpg) |
-| Working                    | ![](./img/04_working.gif)            |
+| Working                    | [video](./img/04_working.mp4)            |
