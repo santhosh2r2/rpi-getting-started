@@ -73,7 +73,7 @@ In this repo, we will look into Python coding. The original tutorials can be fou
 
 ## Dataflow
 
-![](./General_Workflow.jpg)
+![](./docs/General_Workflow.jpg)
 
 ## Overview of the projects performed
 
@@ -83,3 +83,4 @@ In this repo, we will look into Python coding. The original tutorials can be fou
 |  2  | 23.06.2020 | [Button and LED](./02_Button_and_LED/README.md) |
 |  3  | 24.06.2020 | [LED Graph](./03_LED_Graph/README.md)           |
 |  4  | 24.06.2020 | [Breathing LED](./04_Breathing_LED/README.md)   |
+|  5  | 29.06.2020 | [Colorful LED](./05_Colorful_LED/README.md)     |
