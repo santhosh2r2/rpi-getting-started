@@ -26,3 +26,6 @@ npm run push "commit message"
 |  P   |  2  | 02.06.2020 | [Tensorflow object detection](/myProject/02_Tensorflow_Lite_Object_Detection.md)      |
 |  P   |  3  | 19.06.2020 | [Freenove Projects](/myCode/Freenove/README.md)                                       |
 | ---  | --- | ---------- | ------------------------------------------------------------------------------------- |
+
+## Board definition
+![](./gpio_readall.png)

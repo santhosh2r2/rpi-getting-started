@@ -8,6 +8,13 @@
 
 > https://en.wikipedia.org/wiki/Light-emitting_diode
 
+## RGB LED
+
+- RGB LED has integrated 3 LEDs that can respectively emit red, green and blue light. And it has 4 pins. The long pin (1) is the common port, that is, 3 LED 's positive or negative port. The RGB LED with common positive port and its symbol are shown below. We can make RGB LED emit various colors of light by controlling these 3 LEDs to emit light with different brightness.
+- Red, green, and blue light are called 3 primary colors. When you combine these three primary-color light with different brightness, it can produce almost all kinds of visible lights. Computer screens, single pixel of cell phone screen, neon, and etc. are working under this principle.
+
+> https://en.wikipedia.org/wiki/Light-emitting_diode#RGB_Tri-color
+
 ## Resistor
 
 Resistor is an electrical component that limits or regulates the flow of current in an electronic circuit.
