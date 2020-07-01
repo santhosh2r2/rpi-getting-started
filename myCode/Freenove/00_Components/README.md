@@ -20,3 +20,9 @@
 Resistor is an electrical component that limits or regulates the flow of current in an electronic circuit.
 
 > https://en.wikipedia.org/wiki/Resistor
+
+## ADC
+
+- ADC, Analog-to-Digital Converter, is a device used to convert analog to digital.
+- The range of the ADC module is 8 bits, that means the resolution is 2^8=256, and it represents the range (here is 3.3V) will be divided equally to 256 parts.
+- The analog of each range corresponds to one ADC values. So the more bits ADC has, the denser the partition of analog will be, also the higher precision of the conversion will be.
