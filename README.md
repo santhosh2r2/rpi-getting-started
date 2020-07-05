@@ -2,6 +2,14 @@
 
 Here a collection of Information for future reference.
 
+## Modules purchased for the starter kit
+
+> For RPi 4 Model B - with 64GB SD and 4GB RAM
+> https://www.amazon.de/gp/product/B07YYWZDX7/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
+
+> For RPi Camera Module:
+> https://www.amazon.de/gp/product/B07TWHCSMT/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=
+
 ## Commit to multiple repo
 
 As this repo has multiple git remotes, I find it easier to using the below command to push the commits instantly to the multiple repos.
@@ -28,4 +36,5 @@ npm run push "commit message"
 | ---  | --- | ---------- | ------------------------------------------------------------------------------------- |
 
 ## Board definition
+
 ![](./gpio_readall.png)

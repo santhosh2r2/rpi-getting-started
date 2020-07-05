@@ -5,6 +5,9 @@ For getting started with Raspberry Pi, starter kits are generally recommended.
 > For RPi 4 Model B - with 64GB SD and 4GB RAM
 > https://www.amazon.de/gp/product/B07YYWZDX7/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
 
+> For RPi Camera Module: 
+> https://www.amazon.de/gp/product/B07TWHCSMT/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1
+
 > It depends on the type of application you are planning to run. For machine learning apps, RPi 4 Model B with min. 4 GB RAM is recommended.
 
 If this is not preferred, then avail the following parts in order to continue with the instructions.
